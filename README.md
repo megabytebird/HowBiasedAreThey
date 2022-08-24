@@ -13,8 +13,13 @@ https://www.postgresqltutorial.com/postgresql-python/connect/
   pip install psycopg2
 
 Current Architecture:
+
 Docker containers running the following:
 Postgres DB (TODO)
-PGAdmin4 (TODO)
+
+PGAdmin4 (TODO
+
 Java Backend with Spring Boot (and potentially liquibase) for DB Management and Data Querying (TODO)
+
 Python Web Scrapers (1 per news service) (TODO)
+
